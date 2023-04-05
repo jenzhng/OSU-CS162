@@ -2,6 +2,7 @@
 
 
 Modules used: **time** module, **random** module
+
 Packages used: **matplotlib** package imported from **pyplot** module, wraps() function from the functools module for use in decorator
 
 Use the **time** module to write a decorator function named sort_timer that times how many seconds it takes the decorated function to run.  Since sort functions don't need to return anything, have the decorator's wrapper function return that elapsed time.
