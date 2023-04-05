@@ -33,3 +33,4 @@ Each of the calls to the plot function plot a line.  The call to the show functi
 Your file must be named: **sort_timer.py**
 
 ## Graph generated
+![Alt text](https://github.com/jenzhng/OSU-CS162/blob/15b0e9457f5dd7c1ecfd60a49ff10d191d991dfa/Figure_1.png)
