@@ -32,4 +32,4 @@ Each of the calls to the plot function plot a line.  The call to the show functi
 
 Your file must be named: **sort_timer.py**
 
-Graph generated
+## Graph generated
